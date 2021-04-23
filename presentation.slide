@@ -51,6 +51,11 @@ Market capitalisation of $13B
 
 // Deployment lead time. Lead time starts when when dev checks in change to version control, and ends when change is deployed to production.
 
+// When deployment lead times are long, eg. in the months heroics are requied all the way along the value stream. We may discover that nothing works at the end of the project when everything is merged together.
+// Resulting in code that no longer works, builds, passes tests.
+
+// In the devops idea the developers receive dast constant feedback on their work which enables the mt oquickly independly implement their work, validate it and then have deployed into production.
+
 ## DevOps at reecetech
 
 ## Jellyfish
