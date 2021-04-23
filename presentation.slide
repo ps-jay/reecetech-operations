@@ -8,6 +8,10 @@ Daniel Barrett
 DevOps Engineer, Reece
 https://www.linkedin.com/in/daniel-thomas-barrett/
 
+## The Important Nervous System
+
+.html nervous_system.html
+
 ## me:
 - Monash IBL Program sem 1 2018
 - Graduated B. Comp Sci 2019
@@ -16,22 +20,48 @@ https://www.linkedin.com/in/daniel-thomas-barrett/
 
 .image reecetech.png _ 300
 
-## DevOps Theory
-- Continuous Integration
-- Lean
-- Agile
+##
 
-Operational Expenditure
-Capital Expenditure
+.image ReeceGroup.jpg _ 300
 
-### Hi
-#### Lean
+Market capitalisation of $13B
+
+36th largest stock on the ASX
+
+.image reecegroup_stock.png _ 900
+
+## Lean
+
+.image toyota.jpg _ 800
+
+// Techniques devised by Toyota have been applied to value stream businesses, like IT, service industry and health care. 
+// The major tenets of lean are the lead time required to convert raw materials into finished goods are the ebst predictor of quality.
+// And the predictors of short lead times was small batch sizes of work.
+
+// Toyota Kata: non of the competitors of toyota were able to replicate what Toyota was able to achieve. What was missing was described in the Toyota Kata book which concluded work routines should that involve making daily habitual practice of improving wirk because the daily practice is what matters. 
+
+// Paper airplane folding video example
 
 ## Agile
 
+// Key principal to "delivery working software frequently from a couple of weeks to a couple of months, with a preference for smaller batch sizes
+.html agile_manifesto.html
+
 ## DevOps
 
+// Deployment lead time. Lead time starts when when dev checks in change to version control, and ends when change is deployed to production.
+
 ## DevOps at reecetech
+
+## Jellyfish
+
+.image jellyfish.png _ 300
+.link http://grafana.test.reecenet.org/d/y15bBqWZk/security-dashboard-jellyfish?orgId=1
+
+## Dugong
+
+.image dugong.png _ 450
+Change control
 
 ## Books
 
