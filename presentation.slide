@@ -35,7 +35,7 @@ Market capitalisation of $13B
 .image toyota.jpg _ 800
 
 // Techniques devised by Toyota have been applied to value stream businesses, like IT, service industry and health care. 
-// The major tenets of lean are the lead time required to convert raw materials into finished goods are the ebst predictor of quality.
+// The major tenets of lean are the lead time required to convert raw materials into finished goods are the best predictor of quality.
 // And the predictors of short lead times was small batch sizes of work.
 
 // Toyota Kata: non of the competitors of toyota were able to replicate what Toyota was able to achieve. What was missing was described in the Toyota Kata book which concluded work routines should that involve making daily habitual practice of improving wirk because the daily practice is what matters. 
@@ -55,6 +55,12 @@ Market capitalisation of $13B
 // Resulting in code that no longer works, builds, passes tests.
 
 // In the devops idea the developers receive dast constant feedback on their work which enables the mt oquickly independly implement their work, validate it and then have deployed into production.
+
+## Three Ways
+
+.image first-way.webp _ 300
+.image second-way.webp _ 300
+.image third-way.png _ 300
 
 ## DevOps at reecetech
 
