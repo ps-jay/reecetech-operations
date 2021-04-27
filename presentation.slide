@@ -8,7 +8,7 @@ Daniel Barrett
 DevOps Engineer, Reece
 https://www.linkedin.com/in/daniel-thomas-barrett/
 
-## The Important Nervous System
+## The Nervous System
 
 .html nervous_system.html
 
@@ -56,13 +56,33 @@ Market capitalisation of $13B
 
 // In the devops idea the developers receive dast constant feedback on their work which enables the mt oquickly independly implement their work, validate it and then have deployed into production.
 
-## Three Ways
+## Three Ways - #1
 
-.image first-way.webp _ 300
-.image second-way.webp _ 300
-.image third-way.png _ 300
+.image first-way.webp _ 700
+
+// Identify bottle necks and exploit them
+
+## Three Ways - #1 Contined
+
+.html lean_manufacturing.html
+
+
+## Three Ways - #2
+
+.image second-way.webp _ 700
+// push feedback closer to the source
+//telemetry
+
+
+
+## Three Ways - #3
+.image third-way.png _ 700
+// culture of safety
+// learning culture
 
 ## DevOps at reecetech
+
+## Bamboo
 
 ## Jellyfish
 
@@ -72,7 +92,19 @@ Market capitalisation of $13B
 ## Dugong
 
 .image dugong.png _ 450
-Change control
+//Change control
+
+## Kubernetes
+
+## New Relic
+
+.link https://one.newrelic.com
+
+## * As code
+
+- Bamboo Pipelines as code
+- WAF as code
+- Security Whitelists https://stash.reecenet.org/projects/SEC/repos/netskope-update-url-lists/browse
 
 ## Books
 
