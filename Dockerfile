@@ -1,6 +1,6 @@
 FROM golang:1.20 AS base
 
-ARG PRESENT_VERSION=v0.1.0
+ARG PRESENT_VERSION=v0.5.0
 
 RUN go install golang.org/x/tools/cmd/present@${PRESENT_VERSION}
 
